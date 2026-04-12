@@ -1,7 +1,7 @@
 const episodes = [
     {
         value: '3.png',
-        text: "Première rencontre",
+        text: "Présentations",
         description: 'boo! be mine VF episode 1 HD',
         preview: '3-preview.webp',
         url: ['3.png'],
