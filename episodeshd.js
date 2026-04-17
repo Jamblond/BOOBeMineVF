@@ -1,5 +1,21 @@
 const episodes = [
     {
+        value: '5.png',
+        text: "Première rencontre",
+        description: 'boo! be mine VF episode 1 HD',
+        preview: '5-preview.webp',
+        url: ['5-1.png', '5-2.png'],
+        multi: true
+    },
+    {
+        value: '4.png',
+        text: "Première rencontre",
+        description: 'boo! be mine VF episode 1 HD',
+        preview: '4-preview.webp',
+        url: ['4-1.png', '4-2.png'],
+        multi: true
+    },    
+    {
         value: '3.png',
         text: "Présentations",
         description: 'boo! be mine VF episode 1 HD',
